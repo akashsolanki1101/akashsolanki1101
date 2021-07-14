@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/akashso40642739" target="blank"><img src="https://img.shields.io/twitter/follow/akashso40642739?logo=twitter&style=for-the-badge" alt="akashso40642739" /></a> </p>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/akashsolanki1101/Chat-App)
 
 - 💬 Ask me about **react, react-native, firebase my pleasure to help you..**
 
