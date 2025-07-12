@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akashsolanki2509@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15ZSdlPgSYHil25elEVfIyefpc-gKujJa/view?usp=drivesdk](https://drive.google.com/file/d/15ZSdlPgSYHil25elEVfIyefpc-gKujJa/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/15ZSdlPgSYHil25elEVfIyefpc-gKujJa/view?usp=drivesdk](https://drive.google.com/file/d/1pCw20WBaBlcd66IHIzvJvMQ6KYyAf7wb/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
